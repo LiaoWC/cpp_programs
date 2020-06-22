@@ -1,7 +1,6 @@
 #ifndef _client_hpp_
 #define _client_hpp_
 
-#include "headers.hpp"
 #include "input_processing.hpp"
 #include "socket_stream_write.hpp"
 #include "sqlite3_db.hpp"
